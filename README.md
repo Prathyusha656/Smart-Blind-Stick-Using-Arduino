@@ -112,6 +112,7 @@ No sound from buzzer	Buzzer failure	Test buzzer separately
 
 ##📸 Project Images
 
-## Circuit Diagram
-![Circuit Diagram](/images/image.jpg)
+## Images
+![Image](/images/image.jpg)
+![Images](/images/image.png)
 
